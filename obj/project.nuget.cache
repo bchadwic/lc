@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNcrHg/8e5MaJoXpKM+scpp49B2DIc47jemfCZXn8EUBNAMIzKXSLc0gx/IOvzSjndmXJu4rzpcnMM6hKpD70w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
